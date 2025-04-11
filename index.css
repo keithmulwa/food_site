@@ -11,44 +11,51 @@
     justify-content: space-around;
     align-items: center;
 }
-a{
+
+a {
     text-decoration: none;
     color: rgb(214, 15, 15);
     font-size: larger;
 }
+
 .header {
     margin-top: 80px;
     text-align: center;
 }
+
 .food {
     border: 1px solid blueviolet;
     width: 300px;
     padding: 20px;
-    height:auto;
-   background-color: rgb(241, 71, 71);
-   text-align: center;
+    height: auto;
+    background-color: rgb(241, 71, 71);
+    text-align: center;
 }
-img{
+
+img {
     width: 300px;
 }
+
 .foodlist {
     display: flex;
     gap: 50px;
     flex-wrap: wrap;
 
 }
+
 .footer {
     border: 1px;
     color: #0f0f0f;
     border-radius: 7px;
     background-color: #f14135;
-    margin-top: 20px ;
+    margin-top: 20px;
     height: 100px;
     font-size: medium;
     align-items: center;
     text-align: center;
     justify-content: center;
 }
-.body{
-    background-color: #ff1100   ;
+
+.body {
+    background-color: #ff1100;
 }
